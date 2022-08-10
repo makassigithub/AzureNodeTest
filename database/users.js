@@ -29,6 +29,11 @@ var users = [
     name: "John Doe 5",
     city: "Montreal",
   },
+  {
+    id: 6,
+    name: "John Doe 6",
+    city: "Saint-JEan",
+  },
 ];
 
 module.exports = users;
